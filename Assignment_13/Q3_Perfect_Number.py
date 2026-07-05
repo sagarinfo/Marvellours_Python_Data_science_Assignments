@@ -10,5 +10,4 @@ def main():
         print(No, "is not a perfect number.")
         
 if __name__ == "__main__":
-    main()        
-        
+    main()      
