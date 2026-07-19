@@ -1,0 +1,6 @@
+Strong expertise in Big Data technologies, including Apache Spark, Hive, PySpark, and Databricks for large-scale data processing and analytics.
+Hands-on experience with cloud platforms – AWS and GCP, building and managing cloud-based data solutions and integrations.
+Proficient in ETL tools such as Informatica PowerCenter and Informatica Power Exchange, handling structured and unstructured data sources.
+Skilled in Python automation and UNIX shell scripting to streamline data ingestion, transformation, validation, and operational workflows.
+Experienced in Agile environments, collaborating with cross-functional teams while leveraging CI/CD, version control, and DevOps tools to ensure data quality, governance, and security.
+Passionate about optimizing data architecture, improving pipeline performance, and delivering scalable, high-impact data solutions
