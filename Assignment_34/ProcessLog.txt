@@ -1,0 +1,1242 @@
+********** Running Process Information **********
+
+Automation Script Started
+
+Process Name : System Idle Process
+PID          : 0
+Username     : NT AUTHORITY\SYSTEM
+-----------------------------------------
+Process Name : System
+PID          : 4
+Username     : NT AUTHORITY\SYSTEM
+-----------------------------------------
+Process Name : Registry
+PID          : 224
+Username     : None
+-----------------------------------------
+Process Name : smss.exe
+PID          : 764
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 996
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 1124
+Username     : None
+-----------------------------------------
+Process Name : csrss.exe
+PID          : 1144
+Username     : None
+-----------------------------------------
+Process Name : wininit.exe
+PID          : 1312
+Username     : None
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 1348
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : FnHotkeyUtility.exe
+PID          : 1396
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : services.exe
+PID          : 1456
+Username     : None
+-----------------------------------------
+Process Name : lsass.exe
+PID          : 1464
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 1616
+Username     : None
+-----------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1648
+Username     : None
+-----------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1660
+Username     : None
+-----------------------------------------
+Process Name : crashpad_handler.exe
+PID          : 1740
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 1788
+Username     : None
+-----------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1808
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 1888
+Username     : None
+-----------------------------------------
+Process Name : CastSrv.exe
+PID          : 1920
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WidgetService.exe
+PID          : 1956
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 2028
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2040
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2084
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2092
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2184
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2208
+Username     : None
+-----------------------------------------
+Process Name : QSHelper.exe
+PID          : 2220
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2240
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2360
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2492
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2516
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2520
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2556
+Username     : None
+-----------------------------------------
+Process Name : NVDisplay.Container.exe
+PID          : 2760
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2828
+Username     : None
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 2848
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2928
+Username     : None
+-----------------------------------------
+Process Name : AdobeIPCBroker.exe
+PID          : 2952
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : atiesrxx.exe
+PID          : 2960
+Username     : None
+-----------------------------------------
+Process Name : amdfendrsr.exe
+PID          : 2968
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 2976
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3044
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3116
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3156
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3212
+Username     : None
+-----------------------------------------
+Process Name : MemCompression
+PID          : 3292
+Username     : None
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 3328
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3352
+Username     : None
+-----------------------------------------
+Process Name : AppVShNotify.exe
+PID          : 3372
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 3472
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 3588
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3656
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3680
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3692
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3740
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3984
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 3992
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4000
+Username     : None
+-----------------------------------------
+Process Name : unsecapp.exe
+PID          : 4136
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4156
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4232
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4300
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4308
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4368
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4424
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4468
+Username     : None
+-----------------------------------------
+Process Name : MsMpEng.exe
+PID          : 4496
+Username     : None
+-----------------------------------------
+Process Name : AppActions.exe
+PID          : 4556
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4572
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4600
+Username     : None
+-----------------------------------------
+Process Name : spoolsv.exe
+PID          : 4648
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4676
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4716
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4820
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4864
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4876
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4884
+Username     : None
+-----------------------------------------
+Process Name : UpdaterService.exe
+PID          : 4896
+Username     : None
+-----------------------------------------
+Process Name : Lenovo.Modern.ImController.exe
+PID          : 4904
+Username     : None
+-----------------------------------------
+Process Name : LenovoUtilityService.exe
+PID          : 4916
+Username     : None
+-----------------------------------------
+Process Name : LenovoVantageService.exe
+PID          : 4924
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 4932
+Username     : None
+-----------------------------------------
+Process Name : GameInputRedistService.exe
+PID          : 4980
+Username     : None
+-----------------------------------------
+Process Name : servicehost.exe
+PID          : 4996
+Username     : None
+-----------------------------------------
+Process Name : NahimicService.exe
+PID          : 5008
+Username     : None
+-----------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID          : 5020
+Username     : None
+-----------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 5056
+Username     : None
+-----------------------------------------
+Process Name : UDClientService.exe
+PID          : 5096
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 5104
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 5136
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 5188
+Username     : None
+-----------------------------------------
+Process Name : WmiPrv.exe
+PID          : 5216
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 5280
+Username     : None
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 5344
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 5388
+Username     : None
+-----------------------------------------
+Process Name : Code.exe
+PID          : 5412
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : explorer.exe
+PID          : 5432
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : AnalyticsSrv.exe
+PID          : 5856
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : node.exe
+PID          : 5880
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 5988
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : notepad++.exe
+PID          : 6244
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : pet.exe
+PID          : 6444
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : gamingservices.exe
+PID          : 6484
+Username     : None
+-----------------------------------------
+Process Name : gamingservicesnet.exe
+PID          : 6488
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 6744
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 6748
+Username     : None
+-----------------------------------------
+Process Name : QuickShareService.exe
+PID          : 6824
+Username     : None
+-----------------------------------------
+Process Name : Receiver.exe
+PID          : 6852
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : cncmd.exe
+PID          : 6876
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 6996
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 7128
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 7136
+Username     : None
+-----------------------------------------
+Process Name : Code.exe
+PID          : 7152
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 7200
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 7268
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : AMDRSSrcExt.exe
+PID          : 7428
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : CrossDeviceResume.exe
+PID          : 7440
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : wlanext.exe
+PID          : 7528
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 7576
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : SoftLandingTask.exe
+PID          : 7584
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 7712
+Username     : None
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 7760
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 7852
+Username     : None
+-----------------------------------------
+Process Name : Code.exe
+PID          : 8124
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8144
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8176
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8196
+Username     : None
+-----------------------------------------
+Process Name : MessagingPlugin.exe
+PID          : 8260
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 8372
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8452
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8464
+Username     : None
+-----------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 8496
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : NisSrv.exe
+PID          : 8572
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8752
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8880
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 8892
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : GameInputSvc.exe
+PID          : 8964
+Username     : None
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 9004
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 9008
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 9088
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WebexHost.exe
+PID          : 9400
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : crashpad_handler.exe
+PID          : 9436
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 9444
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 9504
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : audiodg.exe
+PID          : 9532
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 9584
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : dtclientuser.exe
+PID          : 9592
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Amazon Music Helper.exe
+PID          : 9636
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 9768
+Username     : None
+-----------------------------------------
+Process Name : unsecapp.exe
+PID          : 9784
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 9828
+Username     : None
+-----------------------------------------
+Process Name : OneDrive.exe
+PID          : 9836
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 9848
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 9872
+Username     : None
+-----------------------------------------
+Process Name : XboxPcApp.exe
+PID          : 9884
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 9904
+Username     : None
+-----------------------------------------
+Process Name : GameInputRedistService.exe
+PID          : 9920
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : python.exe
+PID          : 10064
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 10428
+Username     : None
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 10452
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 10656
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 10892
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : csrss.exe
+PID          : 10896
+Username     : None
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 10948
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 10968
+Username     : None
+-----------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 11044
+Username     : None
+-----------------------------------------
+Process Name : Nahimic3.exe
+PID          : 11232
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11272
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 11284
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : nahimicNotifSys.exe
+PID          : 11532
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : EdgeGameAssist.exe
+PID          : 11536
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 11556
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WindowsTerminal.exe
+PID          : 11692
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : NVDisplay.Container.exe
+PID          : 11836
+Username     : None
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11840
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 11880
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 11904
+Username     : None
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11928
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 12112
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+PID          : 12116
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ctfmon.exe
+PID          : 12256
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 12420
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 12632
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 12728
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 12936
+Username     : None
+-----------------------------------------
+Process Name : LSB.exe
+PID          : 13072
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 13084
+Username     : None
+-----------------------------------------
+Process Name : redirector.exe
+PID          : 13152
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 13180
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13216
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13336
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : DataExchangeHost.exe
+PID          : 13580
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 13664
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : explorer.exe
+PID          : 13876
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 14156
+Username     : None
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 14200
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ONENOTEM.EXE
+PID          : 14496
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : GameInputSvc.exe
+PID          : 14524
+Username     : None
+-----------------------------------------
+Process Name : LenovoVantage-(VantageCoreAddin).exe
+PID          : 14620
+Username     : None
+-----------------------------------------
+Process Name : Locator.exe
+PID          : 14656
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 14792
+Username     : None
+-----------------------------------------
+Process Name : Code.exe
+PID          : 14820
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 14852
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : sihost.exe
+PID          : 14860
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 14896
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : SearchHost.exe
+PID          : 15248
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Widgets.exe
+PID          : 15324
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : LenovoVantage-(LenovoGamingSystemAddin).exe
+PID          : 15384
+Username     : None
+-----------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 15500
+Username     : None
+-----------------------------------------
+Process Name : Code.exe
+PID          : 15572
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 15620
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : dwm.exe
+PID          : 15624
+Username     : None
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 15756
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 15932
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 15992
+Username     : None
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 16252
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : python.exe
+PID          : 16352
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 16476
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 17152
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : LenovoNow.Task.exe
+PID          : 17436
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 17592
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 17684
+Username     : None
+-----------------------------------------
+Process Name : cmd.exe
+PID          : 17920
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : taskhostw.exe
+PID          : 18284
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+PID          : 18568
+Username     : None
+-----------------------------------------
+Process Name : XD.exe
+PID          : 18736
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 18752
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 18844
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 19180
+Username     : None
+-----------------------------------------
+Process Name : RadeonSoftware.exe
+PID          : 19288
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 19304
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 19448
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : NahimicAPO4Volume.exe
+PID          : 19520
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : winlogon.exe
+PID          : 19616
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 19660
+Username     : None
+-----------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 19720
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ShellHost.exe
+PID          : 19724
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : unsecapp.exe
+PID          : 20084
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 20132
+Username     : None
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 20172
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 20208
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 20248
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 20524
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : TextInputHost.exe
+PID          : 20644
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 20844
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 20888
+Username     : None
+-----------------------------------------
+Process Name : wfcrun32.exe
+PID          : 20916
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : LenovoVantage-(LenovoServiceBridgeAddin).exe
+PID          : 21164
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 21548
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 21636
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : LenovoVantage-(GenericMessagingAddin).exe
+PID          : 22320
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 22336
+Username     : None
+-----------------------------------------
+Process Name : XboxPcTray.exe
+PID          : 22468
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 22480
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 22488
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 22596
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 22680
+Username     : None
+-----------------------------------------
+Process Name : OneDrive.Sync.Service.exe
+PID          : 22736
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : OpenConsole.exe
+PID          : 23092
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 23188
+Username     : None
+-----------------------------------------
+Process Name : atieclxx.exe
+PID          : 23368
+Username     : None
+-----------------------------------------
+Process Name : CCXProcess.exe
+PID          : 23492
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedge.exe
+PID          : 23536
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : concentr.exe
+PID          : 23624
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 23960
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 24068
+Username     : None
+-----------------------------------------
+Process Name : AppProvisioningPlugin.exe
+PID          : 24240
+Username     : None
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 24312
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : conhost.exe
+PID          : 24320
+Username     : None
+-----------------------------------------
+Process Name : FnHotkeyCapsLKNumLK.exe
+PID          : 24328
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 24432
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : cmd.exe
+PID          : 24436
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ms-teams.exe
+PID          : 24524
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 24656
+Username     : None
+-----------------------------------------
+Process Name : python.exe
+PID          : 24812
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : XboxPcAppFT.exe
+PID          : 24952
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 25444
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : SelfServicePlugin.exe
+PID          : 25576
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : powershell.exe
+PID          : 25860
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 25924
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 25996
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : pet.exe
+PID          : 26028
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ms-teams.exe
+PID          : 26260
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 26832
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 27312
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : NahimicSvc64.exe
+PID          : 27320
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : WmiApSrv.exe
+PID          : 27448
+Username     : None
+-----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 27692
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 27824
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : AMDRSServ.exe
+PID          : 27868
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : elevation_service.exe
+PID          : 27980
+Username     : None
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 28116
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28132
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28140
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28148
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : taskhostw.exe
+PID          : 28172
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28240
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28356
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID          : 28540
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 28544
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : svchost.exe
+PID          : 28580
+Username     : None
+-----------------------------------------
+Process Name : python.exe
+PID          : 28608
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 28936
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : Code.exe
+PID          : 28984
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : chrome.exe
+PID          : 29288
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : NahimicSvc32.exe
+PID          : 29412
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 29440
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+Process Name : CrossDeviceService.exe
+PID          : 29604
+Username     : LAPTOP-P4C70CAM\sagar
+-----------------------------------------
+
+Automation Script Finished Successfully
