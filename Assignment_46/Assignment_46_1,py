@@ -1,0 +1,47 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+
+class AdvertisingLinearRegression:
+    def __init__(self, csv_file_path):
+        self.csv_file_path = csv_file_path
+        self.model = LinearRegression()
+
+    def process_and_evaluate(self):
+        # Step 1: Get Data
+        df = pd.read_csv(self.csv_file_path)
+
+        # Step 2: Clean, Prepare and Manipulate data
+        # Assuming the CSV contains feature columns and a target column (e.g., 'Sales')
+        # We separate the independent variables (X) and the dependent variable (y)
+        # Dropping an unnamed index column if present
+        if 'Unnamed: 0' in df.columns:
+            df = df.drop(columns=['Unnamed: 0'])
+
+        X = df.iloc[:, :-1].values
+        y = df.iloc[:, -1].values
+
+        # Step 3: Train Data (divide dataset into half: 50% training, 50% testing)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
+        
+        self.model.fit(X_train, y_train)
+
+        # Step 4: Test the data by passing the remaining half part
+        y_pred = self.model.predict(X_test)
+
+        # Step 5: Display predicted values as well as expected values
+        print("--- Linear Regression Results ---")
+        results_df = pd.DataFrame({'Expected Value': y_test, 'Predicted Value': y_pred})
+        print(results_df.to_string(index=False))
+
+
+def main():
+    # File path to the dataset CSV file
+    csv_file = "Advertising.csv"
+
+    predictor = AdvertisingLinearRegression(csv_file)
+    predictor.process_and_evaluate()
+
+
+if __name__ == "__main__":
+    main()

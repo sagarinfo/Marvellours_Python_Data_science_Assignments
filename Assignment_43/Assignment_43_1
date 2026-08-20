@@ -1,0 +1,90 @@
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import LabelEncoder
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+
+class PlayPredictorKNN:
+    def __init__(self, csv_file_path):
+        self.csv_file_path = csv_file_path
+        self.model = KNeighborsClassifier(n_neighbors=3)
+        self.le_weather = LabelEncoder()
+        self.le_temp = LabelEncoder()
+        self.le_play = LabelEncoder()
+
+    def load_and_preprocess_data(self):
+        # Step 1: Get Data
+        df = pd.read_csv(self.csv_file_path)
+
+        # Step 2: Clean, Prepare and Manipulate data using LabelEncoder
+        # Assuming columns are named: 'Weather', 'Temperature', 'Play' (adjust based on standard PlayPredictor dataset)
+        df['Weather'] = self.le_weather.fit_transform(df['Weather'])
+        df['Temperature'] = self.le_temp.fit_transform(df['Temperature'])
+        df['Play'] = self.le_play.fit_transform(df['Play'])
+
+        return df
+
+    def train_model(self):
+        df = self.load_and_preprocess_data()
+        
+        X = df[['Weather', 'Temperature']].values
+        y = df['Play'].values
+
+        # Step 3: Train Data using whole dataset
+        self.model.fit(X, y)
+
+    def predict_play(self, weather, temperature):
+        # Transform inputs using the fitted encoders
+        w_encoded = self.le_weather.transform([weather])[0]
+        t_encoded = self.le_temp.transform([temperature])[0]
+
+        # Step 4: Test Data with user/passed values (K=3)
+        prediction_encoded = self.model.predict([[w_encoded, t_encoded]])
+        prediction = self.le_play.inverse_transform(prediction_encoded)
+
+        return prediction[0]
+
+    def check_accuracy(self):
+        # Step 5: Calculate Accuracy by dividing dataset into two equal parts (50% train, 50% test)
+        df = self.load_and_preprocess_data()
+        
+        X = df[['Weather', 'Temperature']].values
+        y = df['Play'].values
+
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
+
+        print("\n--- Accuracy Calculation for Different K Values ---")
+        for k in [1, 3, 5, 7]:
+            knn = KNeighborsClassifier(n_neighbors=k)
+            knn.fit(X_train, y_train)
+            y_pred = knn.predict(X_test)
+            acc = accuracy_score(y_test, y_pred) * 100
+            print(f"K = {k} -> Accuracy: {acc:.2f}%")
+
+
+def main():
+    # File path to the dataset CSV file
+    csv_file = "MarvellousInfosystems_PlayPredictor.csv"
+
+    predictor = PlayPredictorKNN(csv_file)
+
+    # Train the model on the full dataset
+    predictor.train_model()
+
+    # Accept input from the user for testing
+    weather_input = input("Enter Weather (e.g., Sunny, Rainy, Overcast): ")
+    temp_input = input("Enter Temperature (e.g., Hot, Mild, Cool): ")
+
+    try:
+        result = predictor.predict_play(weather_input, temp_input)
+        print(f"\nPredicted Result (Play): {result}")
+    except ValueError:
+        print("\nInvalid feature value entered! Please check your input categories.")
+
+    # Calculate and display accuracy with dataset split and changing K
+    predictor.check_accuracy()
+
+
+if __name__ == "__main__":
+    main()
